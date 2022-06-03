@@ -5,7 +5,7 @@
 
 💡 &nbsp; I'm a senior software engineer at iRobot Corporation, working on C++ applications for robotic vacuums and mops.\
 💻 &nbsp; I have 7+ years of software engineering experience working in wireless media streaming, gaming, fintech, and robotics. \
-🌱 &nbsp; I'm very interesting in game development and currently working on a game engine from scratch, called [Skye](https://github.com/mpro34/Skye).\
+🌱 &nbsp; I'm very interesting in game development and have worked on a game engine, [Skye](https://github.com/mpro34/Skye), as well as a UE5 shooter named [MagicMayhem](https://github.com/mpro34/MagicMayhem)\
 🎓 &nbsp; I have a BS in Computer Engineering from Loyola Marymount University and an MS in Computer Science from Georgia Tech.\
 \
 ✍️ &nbsp; In my free time, I like to play video games, travel, exercise, and read.\

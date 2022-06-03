@@ -10,7 +10,7 @@
 \
 ✍️ &nbsp; In my free time, I like to play video games, travel, exercise, and read.\
 ✉️ &nbsp; You can email me at mpro34@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp; You can check my [Resume]()
+📄 &nbsp; You can check my [Resume](https://github.com/mpro34/mpro34/blob/main/Whiting_resume_6_2022.pdf)
 
 
 ### 🛠 &nbsp;Tech Stack
